@@ -7,7 +7,7 @@ import ImageLinkForm from './components/ImageLinkForm/ImageLinkForm';
 import Particles from "react-tsparticles"
 import FaceRecognition from './components/FaceRecognition/FaceRecogniton';
 // import Particles from 'react-particles-js';
-const a = 10 
+
 class App extends Component {
   constructor(){
     super();
