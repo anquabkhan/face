@@ -2,3 +2,12 @@
     width: 700px;
 
 }
+
+.bounding-box {
+    position: absolute;
+    box-shadow: 0 0 0 3px hsla(356, 91%, 48%, 0.959) inset;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    cursor: pointer;
+}
